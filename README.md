@@ -7,8 +7,8 @@ Authors: [Dehong Xu](https://dehongxu.github.io/), [Ruiqi Gao](https://ruiqigao.
 
 This paper explores the conformal isometry hypothesis as an explanation for the hexagonal periodic patterns observed in grid cell response maps. We show that by learning a maximally distance-preserving position embedding, this hypothesis naturally yields the hexagonal grid firing patterns.
 <div align="center">
-  <img src="assets/linear_scales.png" alt="drawing" width="300"/>
-  <img src="assets/linear_torus.png" alt="drawing" width="300"/>
+  <img src="assets/linear_scales.png" alt="drawing" width="400"/>
+  <img src="assets/linear_torus.png" alt="drawing" width="400"/>
 </div>
 
 ## Requirements
